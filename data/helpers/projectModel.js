@@ -4,7 +4,7 @@ const mappers = require("./mappers");
 module.exports = {
   get,
   insert,
-  update,
+  update, 
   remove,
   getProjectActions,
 };
